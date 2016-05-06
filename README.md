@@ -2,13 +2,19 @@
 ![lcrrates](https://raw.githubusercontent.com/urueedi/kazoo-lcrroute/master/screenshots/lcrroute_1.png)
 ![lcrrates](https://raw.githubusercontent.com/urueedi/kazoo-lcrroute/master/screenshots/lcrroute_2.png)
 
+Additional Support
+------------------
+Open Phone Net AG infos@openent.ch Switzerland
+
+
 Howto Install
 =============
 
 - Install kazoo from source
-- Install lcrroute in there
+- Install lcrroute
 
 help in /doc
+------------
 
 ```
 Candidates:
