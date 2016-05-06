@@ -1,0 +1,13 @@
+{application, lcrroute,
+ [
+  {description, "LCR-Router - Rate calls based on prefix"}
+  ,{vsn, "0.0.1"}
+  ,{modules, []}
+  ,{registered, []}
+  ,{applications, [
+		   kernel
+		   ,stdlib
+		  ]}
+  ,{mod, { lcrroute_app, []} }
+  ,{env, []}
+ ]}.
